@@ -1,3 +1,10 @@
+/*
+Nama File   : Pesanan.java
+Deskripsi   : Kelas yang merepresentasikan pesanan pelanggan, termasuk menu yang dipesan, jumlah, dan total harga.
+Pembuat     : Khairiya Fatih Izzudin Emarin
+Tanggal     : 08/03/2025
+*/
+
 public class Pesanan {
     private Menu menu;
     private int jumlah;
