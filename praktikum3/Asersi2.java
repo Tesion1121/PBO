@@ -1,3 +1,12 @@
+/*
+nama File   :   Asersi2.java
+Deskripsi   :   program untuk demo asersi, yang akan menolak input jari jari lingkarann yang bernilai nol
+Pembuat     :   Khairiya fatih izzudin emarin
+Tanggal     :   8/03/2025
+*/
+
+
+
 //class Lingkaran
 
 class Lingkaran{
