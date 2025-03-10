@@ -1,3 +1,10 @@
+/*
+Nama File   : Main.java
+Deskripsi   : Program utama untuk mengelola pemesanan menu makanan dengan pengecekan stok.
+Pembuat     : Khairiya Fatih Izzudin Emarin
+Tanggal     : 08/03/2025
+*/
+
 import java.util.Scanner;
 
 public class Main {
