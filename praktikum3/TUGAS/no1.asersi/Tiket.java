@@ -1,3 +1,10 @@
+/*
+Nama File   : Tiket.java
+Deskripsi   : Kelas yang menangani pemesanan tiket dengan validasi menggunakan assertion untuk jumlah tiket dan e-wallet yang dipilih.
+Pembuat     : Khairiya Fatih Izzudin Emarin
+Tanggal     : 08/03/2025
+*/
+
 public class Tiket {
     public static void pesanJumlahTiket(int jumlahTiket) {
         // Asumsi jumlah tiket yang tersedia (boleh diganti)
