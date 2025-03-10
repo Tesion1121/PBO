@@ -1,3 +1,11 @@
+/*
+nama File   :   AngkaSial.java
+Deskripsi   :   codingan dari AngkaSial.java
+Pembuat     :   Khairiya fatih izzudin emarin
+Tanggal     :   19/02/2025
+*/
+
+
 public class AngkaSial{
     public void cobaAngka(int angka) throws AngkaSialException{
         if(angka==13){
