@@ -1,3 +1,10 @@
+/*
+Nama File   : Menu.java
+Deskripsi   : Kelas yang merepresentasikan menu makanan dengan atribut nama, harga, dan stok.
+Pembuat     : Khairiya Fatih Izzudin Emarin
+Tanggal     : 08/03/2025
+*/
+
 public class Menu {
     private String nama;
     private double harga;
