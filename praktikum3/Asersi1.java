@@ -1,3 +1,10 @@
+/*
+nama File   :   Asersi1.java
+Deskripsi   :   program untuk menunjukan asersi
+Pembuat     :   Khairiya fatih izzudin emarin
+Tanggal     :   8/03/2025
+*/
+
 public class Asersi1{
     public static void main(String [] args){
         int x=0;
