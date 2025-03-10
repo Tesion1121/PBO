@@ -1,8 +1,8 @@
 /*
 nama File   :   AngkaSial.java
-Deskripsi   :   codingan dari AngkaSial.java
+Deskripsi   :   program penggunaan exception buatan sendiri pengenalan klausa 'throw' dan 'throws'
 Pembuat     :   Khairiya fatih izzudin emarin
-Tanggal     :   19/02/2025
+Tanggal     :   08/03/2025
 */
 
 
