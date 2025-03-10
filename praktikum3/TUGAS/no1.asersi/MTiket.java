@@ -1,3 +1,10 @@
+/*
+Nama File   : MTiket.java
+Deskripsi   : Program untuk melakukan pemesanan tiket dengan validasi jumlah tiket dan pemilihan e-wallet sebagai metode pembayaran.
+Pembuat     : Khairiya Fatih Izzudin Emarin
+Tanggal     : 08/03/2025
+*/
+
 import java.util.Scanner;
 
 public class MTiket {
