@@ -3,7 +3,7 @@
 // Pembuat: Khairiya Fatih Izzudin Emarin
 // Tanggal: 22/03/2025
 
-package Lab;
+package praktikum5.Lab;
 
 public class Main {
     public static void main(String[] args) {
