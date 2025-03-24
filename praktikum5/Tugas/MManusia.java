@@ -2,7 +2,7 @@
 // Deskripsi: Main class untuk menjalankan program
 // Pembuat: Khairiya Fatih Izzudin Emarin
 // Tanggal: 22/03/2025
-package Tugas;
+package Praktikum5.Tugas;
 
 //java Tugas.MManusia(run)
 import java.text.ParseException;
