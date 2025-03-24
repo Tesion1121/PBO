@@ -3,7 +3,7 @@
 // Deskripsi: Kelas abstrak untuk mendefinisikan manusia
 // Pembuat: Khairiya Fatih Izzudin Emarin
 // Tanggal: 22/03/2025
-package Tugas;
+package Praktikum5.Tugas;
 
 import java.util.Date;
 import java.text.SimpleDateFormat;
