@@ -1,3 +1,11 @@
+/*
+Nama File   :   Civitas.java
+Deskripsi   :   Kelas abstrak yang menjadi basis bagi kelas Mahasiswa dan Karyawan .
+Pembuat     :   Khairiya Fatih Izzudin Emarin
+Tanggal     :   28/03/2025 
+*/
+
+
 public abstract class Civitas {
     private String nama;
     private String email;
