@@ -1,3 +1,11 @@
+/*
+Nama File   :   Fakultas.java
+Deskripsi   :   Kelas untuk mewakili data fakultas yang berisi nama, tarif UKT, dan gaji pokok.
+Pembuat     :   Khairiya Fatih Izzudin Emarin
+Tanggal     :   28/03/2025 
+*/
+
+
 public class Fakultas {
     private String nama;
     private double tarifUkt;
