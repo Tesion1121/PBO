@@ -1,3 +1,10 @@
+/*
+Nama File   :   Dosen.java
+Deskripsi   :   Kelas untuk mewakili data dosen yang bekerja pada fakultas tertentu dan memiliki perhitungan gaji berdasarkan masa kerja.
+Pembuat     :   Khairiya Fatih Izzudin Emarin
+Tanggal     :   28/03/2025 
+*/
+
 public class Dosen extends Karyawan {
     private Fakultas fakultas;
     private static int counterDosen = 0;
