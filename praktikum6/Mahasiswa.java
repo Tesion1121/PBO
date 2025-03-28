@@ -1,3 +1,10 @@
+/*
+Nama File   :   Mahasiswa.java
+Deskripsi   :   Kelas untuk mewakili data mahasiswa yang memiliki NIM, semester, dan terdaftar pada suatu fakultas.
+Pembuat     :   Khairiya Fatih Izzudin Emarin
+Tanggal     :   28/03/2025 
+*/
+
 public class Mahasiswa extends Civitas {
     private String nim;
     private int semester;
