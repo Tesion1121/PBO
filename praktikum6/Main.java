@@ -1,3 +1,10 @@
+/*
+Nama File   :   Main.java
+Deskripsi   :   Kelas utama untuk mendemokan penggunaan kelas-kelas lainnya.
+Pembuat     :   Khairiya Fatih Izzudin Emarin
+Tanggal     :   28/03/2025 
+*/
+
 public class Main {
     public static void main(String[] args) {
         // Membuat objek Fakultas
