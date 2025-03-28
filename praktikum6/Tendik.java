@@ -1,3 +1,10 @@
+/*
+Nama File   :   Tendik.java
+Deskripsi   :   Kelas untuk mewakili data tenaga pendidikan (tendik) yang bekerja langsung pada universitas dan memiliki perhitungan gaji berdasarkan masa kerja.
+Pembuat     :   Khairiya Fatih Izzudin Emarin
+Tanggal     :   28/03/2025 
+*/
+
 public class Tendik extends Karyawan {
     private static int counterTendik = 0;
     // Gaji pokok tetap Rp4.000.000,-
