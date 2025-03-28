@@ -1,3 +1,10 @@
+/*
+Nama File   :   Karyawan.java
+Deskripsi   :   Kelas abstrak yang menjadi basis bagi kelas Dosen dan Tendik dengan atribut NIP dan masa kerja.
+Pembuat     :   Khairiya Fatih Izzudin Emarin
+Tanggal     :   28/03/2025 
+*/
+
 public abstract class Karyawan extends Civitas {
     private String nip;
     private int masaKerja; // dalam tahun
